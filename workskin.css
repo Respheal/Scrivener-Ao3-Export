@@ -16,53 +16,53 @@
 }
 
 #workskin .blue {
-  color: #3089E8;
+  color: rgb(20, 142, 244);
 }
 
 #workskin .fadetoblue {
-  background: linear-gradient(to bottom right, currentColor, rgba(48, 137, 232, 1));
+  background: linear-gradient(to bottom right, currentColor, rgba(20, 142, 244, 1));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 #workskin .green {
-  color: #36AF4A;
+  color: rgb(60, 166, 51);
 }
 
 #workskin .fadetogreen {
-  background: linear-gradient(to bottom right, currentColor, rgba(54, 175, 74, 1));
+  background: linear-gradient(to bottom right, currentColor, rgba(60, 166, 51, 1));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 #workskin .red {
-  color: #E24658;
+  color: rgb(229, 85, 76);
 }
 
 #workskin .fadetored {
-  background: linear-gradient(to bottom right, currentColor, rgba(226, 70, 88, 1));
+  background: linear-gradient(to bottom right, currentColor, rgba(229, 85, 76, 1));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 #workskin .vio {
-  color: #AB63CC;
+  color: rgb(158, 109, 231);
 }
 
 #workskin .fadetovio {
-  background: linear-gradient(to bottom right, currentColor, rgba(171, 99, 204, 1));
+  background: linear-gradient(to bottom right, currentColor, rgba(158, 109, 231, 1));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 #workskin .colors {
-  background: linear-gradient(to right, #E24658 0%, #AB63CC 34%, #3089E8 66%, #36AF4A 100%);
+  background: linear-gradient(to right, rgb(229, 85, 76) 0%, rgb(158, 109, 231) 34%, rgb(20, 142, 244) 66%, rgb(60, 166, 51) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 #workskin .colors-minus-red {
-  background: linear-gradient(to right, #AB63CC 0%, #3089E8 50%, #36AF4A 100%);
+  background: linear-gradient(to right, rgb(158, 109, 231) 0%, rgb(20, 142, 244) 50%, rgb(60, 166, 51) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

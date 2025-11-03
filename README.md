@@ -33,3 +33,12 @@ Example exported text (as it would appear on Ao3 with the "reversi" site skin): 
 ## Credits
 
 The foundational information for this comes from this post by @sineala: https://sineala.tumblr.com/post/172161779944/scrivener-3-and-ao3-a-workflow
+
+## Note for me
+
+I tried switching the colors to OKLCH colors, but Ao3 is currently not compatible. For future reference, the values I picked here:
+Lightness/Chroma: 0.64 / 0.18
+Red: 27
+Green: 142
+Blue: 251
+Vio: 300
